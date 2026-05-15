@@ -1,5 +1,0 @@
-SECURITY GROUPID : sg-0cdb3a7113ab97438
-Target Group Arn : arn:aws:elasticloadbalancing:ap-south-1:475432297908:targetgroup/NLBTargetGroup/971d0a7c9e0b88ee
-NLB Arn : arn:aws:elasticloadbalancing:ap-south-1:475432297908:loadbalancer/net/MyNLB/b77738fdcd51439a
-
-DNS Name : MyNLB-b77738fdcd51439a.elb.ap-south-1.amazonaws.com
